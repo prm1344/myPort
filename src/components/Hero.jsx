@@ -1,7 +1,7 @@
 import React from 'react'
 import {HERO_CONTENT} from '../constants'
 import { delay, motion } from "framer-motion"
-import profilepic from '../assets/pratik.jpeg'
+import profilepic from '../assets/pratik.png'
 
 // C:\Users\admin\Music\myPortfolio-main\src\assets\pratik.jpeg
 
