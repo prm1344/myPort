@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    font-family: "Inter",sans-serif;
+}
+
+.logoText{
+    font-family: "Anta", sans-serif;
+    /* font-size: x-large; */
+    font-weight: bolder;
+    color: #fff;
+}
+.imgprop{
+    width: 800px;
+    height: 500px;
+    
+}
+.bannerImg{
+    height: 500px;
+    width: 550px;
+}
